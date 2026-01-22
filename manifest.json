@@ -2,18 +2,18 @@
   "name": "TrackEDU Fixture Manager",
   "short_name": "TrackEDU",
   "start_url": ".",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#0F66C3",
   "theme_color": "#0F66C3",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://i.imgur.com/adO1wF7.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/2065/2065064.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://i.imgur.com/adO1wF7.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/2065/2065064.png",
       "sizes": "512x512",
       "type": "image/png"
     }
