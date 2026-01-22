@@ -3,8 +3,8 @@
   "short_name": "TrackEDU Fixtures",
   "start_url": ".",
   "display": "fullscreen",
-  "background_color": "#0F66C3",
-  "theme_color": "#0F66C3",
+  "background_color": "#a7ed58",
+  "theme_color": "#a7ed58",
   "orientation": "portrait",
   "icons": [
     {
